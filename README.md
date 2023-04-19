@@ -1,6 +1,6 @@
 # assignmentJDBC
 
-##This Java project is simple MySQL database learning project. 
+## This Java project is simple MySQL database learning project. 
 In this Java project, the focus is on learning about MySQL databases by using stored procedures.
 
 
