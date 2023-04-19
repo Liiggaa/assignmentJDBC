@@ -13,6 +13,16 @@ In this Java project, the focus is on learning about MySQL databases by using st
 
 ## Project screenshots
 
+*Console Output*
+<div>
+  <img src="images/output1.png" alt="Screenshot of Console output" width="600" style="display: inline-block;">
+ </div>
+ 
+ *Console Output*
+<div>
+  <img src="images/output2.png" alt="Screenshot of Console output" width="600" style="display: inline-block;">
+</div>
+
 ## Setup Instructions:
 
 * Import the project into your preferred Java IDE.
